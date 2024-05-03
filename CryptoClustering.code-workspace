@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "SMU-VIRT-AI-PT-02-2024-U-LOLC",
+			"path": "../SMU-VIRT-AI-PT-02-2024-U-LOLC"
+		},
+		{
+			"name": "fun-with-ML",
+			"path": "../../fun-with-ML"
+		}
+	],
+	"settings": {}
+}
